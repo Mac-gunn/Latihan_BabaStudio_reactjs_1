@@ -1,0 +1,138 @@
+.wrapper{
+    height: auto;
+    margin: auto;
+}
+
+.header{
+    height: 100px;
+    width: 100%;
+    margin: auto;
+    background-color: black;
+}
+
+.navbar{
+    height: 100px;
+    width: 1200px;
+    margin: auto;
+}
+
+.logo{
+    width: 600px;
+    height: 100px;
+    float: left;
+}
+
+.imgfluid{
+    margin-left: 100px;
+}
+
+.menu{
+    width: 600px;
+    height: 100px;
+    float: right;
+}
+
+.menu ul li{
+    float: right;
+    margin-right: 30px;
+    list-style: none;
+    line-height: 60px;
+    color: white;
+    width: 70px;
+    text-decoration: none;
+}
+
+.data{
+    float: left;
+    margin-right: 30px;
+    list-style: none;
+    line-height: 60px;
+    color: white;
+    width: 50px;
+    text-decoration: none;
+}
+
+.menu ul li a{
+    text-align: center;
+    height: 150px;
+}
+
+.menu ul li a:hover{
+    background-color: azure;
+    color: blue;
+    width: 100px;
+    cursor: pointer;
+    height: 300px;
+}
+
+.slider{
+    background-color: #0e458a;
+    height: 458px;
+}
+
+.slider_content{
+    width: 1200px;
+    margin: auto;
+}
+
+.imageslider{
+    background-color: #33cc99;
+    max-width: 100%;
+}
+
+.imgsliderr{
+    margin-top: 10px;
+    width: 348px;
+    height: 300px;
+}
+
+.dataprestasi{
+    text-align: center;
+    color: Black;
+}
+
+.content{
+    background-color: rgba(16,117,189,0.5);
+    height: 450px;
+}
+
+.content-gambar{
+    width: 1200px;
+    margin: auto;
+    height: 400px;
+    margin-bottom: 50px;
+}
+
+.image{
+    float: left;
+    width: 350px;
+    height: 400px;
+    margin-right: 50px;
+    margin-bottom: 60px;
+}
+
+.contentimage{
+    background-color: #33cc99;
+    height: 100px;
+    border-radius: 10px;
+}
+
+.fontimage{
+    text-align: center;
+    line-height: 70px;
+    color: white;
+}
+
+.content-yutube{
+    float: left;
+    width: 550px;
+}
+
+.content-map{
+    float: right;
+    width: 550px;
+    position: absolute;
+    right: 0;
+    top: 1145px;
+}
+
